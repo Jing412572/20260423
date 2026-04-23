@@ -1,0 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* 隱藏瀏覽器原生捲動軸 */
+  background-color: #141e2d; /* 配合 sketch 的底色 */
+  width: 100vw;
+  height: 100vh;
+  font-family: sans-serif;
+}
